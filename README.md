@@ -4,3 +4,6 @@
 
 ![store](https://www3.pictures.lonny.com/lo/UVTtXqdmd3Sl.jpg)
 
+## Main Goal
+- ```Main Goal:``` Make a lightweight program to classify retail clothing using Keras.
+- ```Why lightweight?``` For scalability on larger retail organisations. 
