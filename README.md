@@ -7,9 +7,8 @@
 ## Main Goal
 - ```Main Goal:``` Make a lightweight program to classify retail clothing using Keras.
 - ```Why lightweight?``` For scalability in larger retail organisations. 
-- ```Learning Objective:``` 
-
-```what are the results (from a non-technical perspective):``` How does deploying a CV algorithms contribute to a retail organisation? What is the impact of using this? In short, 
+- ```Learning Objective:``` To get a grasp of using CV in the retail industry. 
+- ```what are the results (from a non-technical perspective):``` How does deploying a CV algorithms contribute to a retail organisation? What is the impact of using this? In short, 
 
 Cheers.
 
