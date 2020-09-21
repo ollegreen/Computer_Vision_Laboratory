@@ -9,6 +9,8 @@
 - ```Why lightweight?``` For scalability in larger retail organisations. 
 - ```Learning Objective:``` 
 
+```what are the results (from a non-technical perspective):``` How does deploying a CV algorithms contribute to a retail organisation? What is the impact of using this? In short, 
+
 Cheers.
 
 Olle
