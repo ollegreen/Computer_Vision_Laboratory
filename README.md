@@ -1,4 +1,4 @@
-# Classifying Retail Clothing 
+# Classifying Retail Clothing using Keras
 
 *Let's classify pictures of clothing to make it easier for retail organisations to know where to send the package internally after a customer has returned a piece of clothing.*
 
