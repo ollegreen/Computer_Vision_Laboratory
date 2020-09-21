@@ -11,5 +11,4 @@
 - ```what are the results (from a non-technical perspective):``` It reduces the manual handeing of identifying what type of clothing a specific item is. 
 - ```What is the impact of using this?``` To use this we can reduce the number of employees classifying where to send a returned item, reducing costs and increasing profits.  
 
-Best regards,
-Olle
+*Olle*
