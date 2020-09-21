@@ -6,4 +6,9 @@
 
 ## Main Goal
 - ```Main Goal:``` Make a lightweight program to classify retail clothing using Keras.
-- ```Why lightweight?``` For scalability on larger retail organisations. 
+- ```Why lightweight?``` For scalability in larger retail organisations. 
+- ```Learning Objective:``` 
+
+Cheers.
+
+Olle
