@@ -1,6 +1,9 @@
 # The Computer Vision Lab
 
 *Let's get down and dirty with CL using some popular frameworks.* 
+- Keras
+- Tensorflow 2.0
+- PyTorch
 
 ![dl](https://quantdare.com/wp-content/uploads/2019/06/deep_learning.png)
 
