@@ -1,7 +1,7 @@
 # The Computer Vision Lab
 
 *Let's get down and dirty with CL using some popular frameworks on the same task and see how they differ.* 
-- **PyTorch**
+- **PyTorch** -- Based on recommendation, this seems to be the most prominent one on kaggle competitions and real life applications. 
 - **Keras**
 - **Tensorflow 2.0**
 
