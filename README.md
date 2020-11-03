@@ -13,10 +13,10 @@
 - **Trial & Error is the key concept here.**
 - ```Goal:``` Be able to build these models from scratch in Keras, PyTorch or Tensorflow and apply it to fun problems
 
-TO-DO:
-- Start with getting the fundamentals of pytorch before going into the easier ones --> Tensorflow and Keras. 
-- Emphasise when to use clustering, decision trees etc - https://dzone.com/articles/decision-trees-vs-clustering-algorithms-vs-linear
-- Clustering vs CLassification - https://www.geeksforgeeks.org/clustering-in-machine-learning/
+## TO-DO:
+* Start with getting the fundamentals of pytorch before going into the easier ones --> Tensorflow and Keras. 
+* Emphasise when to use clustering, decision trees etc - https://dzone.com/articles/decision-trees-vs-clustering-algorithms-vs-linear
+* Clustering vs CLassification - https://www.geeksforgeeks.org/clustering-in-machine-learning/
 
 Let's go.
 
