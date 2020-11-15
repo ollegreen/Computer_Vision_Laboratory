@@ -1,9 +1,9 @@
 # The Computer Vision Lab
 
 *Let's get down and dirty with CL using some popular frameworks on the same task and see how they differ.* 
-- **PyTorch** -- Based on recommendation, this seems to be the most prominent one on kaggle competitions and real life applications. 
-- **Keras**
+- **PyTorch** -- Based on recommendation, this seems to be the most prominent one on kaggle competitions and real life applications. However, it seems to have a steep learning curve, but my plan is to start with PyTorch and then proceeding to tensorflow 2.0 and finally keras, would make it easier to understand the TF and Keras as they seem to be a bit easier to digest than PyTorch. 
 - **Tensorflow 2.0**
+- **Keras**
 
 ![dl](https://quantdare.com/wp-content/uploads/2019/06/deep_learning.png)
 
