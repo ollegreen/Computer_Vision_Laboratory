@@ -28,5 +28,27 @@ Let's go.
 Olle 
 
 
+# What is a tensor? 
+In accordance with [datacamp](https://www.datacamp.com/community/tutorials/investigating-tensors-pytorch);
+
+* **A Pytorch tensor is**:  a multi-dimensional matrix containing elements of a single data type.
+
+* **How do we use the PyTorch Tensors?** Basically, Tensors are a type of data structure used in linear algebra, and like vectors and matrices, you can calculate arithmetic operations with tensors.
+
+![tensor](https://cdn-images-1.medium.com/max/2000/1*_D5ZvufDS38WkhK9rK32hQ.jpeg)
+
+A tensor is the basic building block of modern machine learning. At its core, it's a data container. Mostly it contains numbers. Sometimes it even includes strings, but that is rare. ***So think of it as a bucket of numbers.***
+
+
+
+* **but what are data structures?** Basically;
+
+1. Linear: arrays, lists, 
+2. Tree: binary, heaps, space partitioning etc.
+3. Hash: distributed hash table, hash tree etc.
+4. Graphs: decision, directed, acyclic etc.
+
+
+
 _____
 
