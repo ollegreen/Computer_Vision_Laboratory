@@ -19,6 +19,7 @@
 * Start with getting the fundamentals of pytorch before going into the easier ones --> Tensorflow and Keras. 
 * Emphasise when to use clustering, decision trees etc - https://dzone.com/articles/decision-trees-vs-clustering-algorithms-vs-linear
 * Clustering vs CLassification - https://www.geeksforgeeks.org/clustering-in-machine-learning/
+* Pushup cv = reward, when you do 30 pushups in front of the ML-camera -> you get a reward https://youtu.be/x31c9FYypOs
 
 Let's go.
 
