@@ -21,12 +21,8 @@
 * Clustering vs CLassification - https://www.geeksforgeeks.org/clustering-in-machine-learning/
 * Pushup cv = reward, when you do 30 pushups in front of the ML-camera -> you get a reward https://youtu.be/x31c9FYypOs
 
-Let's go.
-
-Olle 
-
-
-# What is a tensor? 
+# Concepts
+## What is a tensor? 
 In accordance with [datacamp](https://www.datacamp.com/community/tutorials/investigating-tensors-pytorch);
 
 * **A Pytorch tensor is**:  a multi-dimensional matrix containing elements of a single data type.
