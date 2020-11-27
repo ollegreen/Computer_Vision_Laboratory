@@ -15,6 +15,8 @@
 - **Tensorflow 2.0** -- TF2 (not the game ;)) seems to be the next area worth diving into for CV Neural Nets. 
 - **Keras** 
 
+<br/>
+
 ## TO-DO:
 * Start with getting the fundamentals of pytorch before going into the easier ones --> Tensorflow and Keras. 
 * Emphasise when to use clustering, decision trees etc - https://dzone.com/articles/decision-trees-vs-clustering-algorithms-vs-linear
