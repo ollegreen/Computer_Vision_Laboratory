@@ -10,6 +10,8 @@
 - **Trial & Error is the key concept here.**
 - ```Goal:``` Be able to build these models from scratch in Keras, PyTorch or Tensorflow and apply it to fun problems 
 
+<br/>
+
 ### Libraries we will check out
 - **PyTorch** -- Based on recommendation, this seems to be the most prominent one on kaggle competitions and real life applications. However, it seems to have a steep learning curve, but my plan is to start with PyTorch and then proceeding to tensorflow 2.0 and finally keras, would make it easier to understand the TF and Keras as they seem to be a bit easier to digest than PyTorch. 
 - **Tensorflow 2.0** -- TF2 (not the game ;)) seems to be the next area worth diving into for CV Neural Nets. 
@@ -24,6 +26,8 @@
 * Pushup cv = reward, when you do 30 pushups in front of the ML-camera -> you get a reward https://youtu.be/x31c9FYypOs
 
 ![Pic](https://magoosh.com/data-science/files/2018/04/shutterstock_667574854.jpg)
+
+<br/>
 
 # Concepts
 ## What is a tensor? 
@@ -46,7 +50,4 @@ A tensor is the basic building block of modern machine learning. At its core, it
 3. Hash: distributed hash table, hash tree etc.
 4. Graphs: decision, directed, acyclic etc.
 
-
-
-_____
 
