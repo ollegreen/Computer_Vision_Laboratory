@@ -37,6 +37,8 @@ In accordance with [datacamp](https://www.datacamp.com/community/tutorials/inves
 
 * **How do we use the PyTorch Tensors?** Basically, Tensors are a type of data structure used in linear algebra, and like vectors and matrices, you can calculate arithmetic operations with tensors.
 
+* **But how does calculating arithmetic operations help us build cool computer vision models and Deep Learning models?** Good Question! Think of it as 
+
 ![tensor](https://cdn-images-1.medium.com/max/2000/1*_D5ZvufDS38WkhK9rK32hQ.jpeg)
 
 A tensor is the basic building block of modern machine learning. At its core, it's a data container. Mostly it contains numbers. Sometimes it even includes strings, but that is rare. ***So think of it as a bucket of numbers.***
