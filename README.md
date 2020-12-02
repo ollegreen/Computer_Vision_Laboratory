@@ -25,9 +25,10 @@
 * Clustering vs CLassification - https://www.geeksforgeeks.org/clustering-in-machine-learning/
 * Pushup cv = reward, when you do 30 pushups in front of the ML-camera -> you get a reward https://youtu.be/x31c9FYypOs
 
+<br/>
+
 ![Pic](https://magoosh.com/data-science/files/2018/04/shutterstock_667574854.jpg)
 
-<br/>
 <br/>
 
 # Concepts
