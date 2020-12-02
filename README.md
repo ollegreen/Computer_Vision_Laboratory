@@ -28,6 +28,7 @@
 ![Pic](https://magoosh.com/data-science/files/2018/04/shutterstock_667574854.jpg)
 
 <br/>
+<br/>
 
 # Concepts
 ## What is a tensor? 
