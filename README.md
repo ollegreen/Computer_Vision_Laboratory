@@ -2,7 +2,7 @@
 
 *Let's get down and dirty with CL using some popular frameworks on the same task and see how they differ.* 
 
-![dl](https://quantdare.com/wp-content/uploads/2019/06/deep_learning.png)
+![dl](https://miro.medium.com/max/2800/1*oDGkw6DWbYLiaFmFHGABaA.png)
 
 ## Info
 - This is a repo to explore different deep learning models and their use-cases. 
