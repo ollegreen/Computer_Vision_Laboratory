@@ -27,7 +27,7 @@
 
 <br/>
 
-![Pic](https://magoosh.com/data-science/files/2018/04/shutterstock_667574854.jpg)
+![Pic](https://img.freepik.com/free-vector/people-making-list-illustration_53876-43029.jpg?size=626&ext=jpg)
 
 <br/>
 
