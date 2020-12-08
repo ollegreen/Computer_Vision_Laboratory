@@ -27,7 +27,7 @@
 
 <br/>
 
-![Pic](https://img.freepik.com/free-vector/people-making-list-illustration_53876-43029.jpg?size=626&ext=jpg)
+![Pic](https://www.toolshero.com/wp-content/uploads/2018/02/to-do-lists-toolshero.jpg)
 
 <br/>
 
