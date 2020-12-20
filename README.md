@@ -20,10 +20,11 @@
 <br/>
 
 ## TO-DO:
-* ```Fundamentals``` Start with getting the fundamentals of pytorch before going into the easier ones --> Tensorflow and Keras. 
+* ```Fundamentals``` Start with getting the theoretical fundamentals of pytorch before going into the easier ones --> Tensorflow and Keras. 
 * ```Choosing correct models``` Emphasise when to use clustering, decision trees etc - https://dzone.com/articles/decision-trees-vs-clustering-algorithms-vs-linear
 * ```Clustering vs CLassification``` - https://www.geeksforgeeks.org/clustering-in-machine-learning/
-* ```Project``` Pushup cv = reward, when you do 30 pushups in front of the ML-camera -> you get a reward https://youtu.be/x31c9FYypOs
+* ```Testing``` Test the libraries on simple applications to get familiar with how they work. 
+* ```First Ambitious Project``` Pushup cv = reward, when you do 30 pushups in front of the ML-camera -> you get a reward https://youtu.be/x31c9FYypOs
 
 <br/>
 
