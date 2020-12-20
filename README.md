@@ -40,11 +40,19 @@ In accordance with [datacamp](https://www.datacamp.com/community/tutorials/inves
 
 * **How do we use the PyTorch Tensors?** Basically, Tensors are a type of data structure used in linear algebra, and like vectors and matrices, you can calculate arithmetic operations with tensors.
 
-* **But how does calculating arithmetic operations help us build cool computer vision models and Deep Learning models?** Good Question! Think of it as 
+* **But how does calculating arithmetic operations help us build cool computer vision models and Deep Learning models?** Good Question! Let's break it down to what our task is in this video based scenario. **What actually is a video?** In a technical sense it is a lot of pictures combined into frames that then could for example result in a visual representation of what your kid looked like when he was swinging on the swing 10 years ago. Ok then let's break down what a picture is, a picture is basically if you zoom in enough, a lot of really small colored squares, which is what we call pixels. These small squares could be turned into for example mathematical matrices, but a single matrix with a 2D-grid of numbers. For example we can see two of them below;
+
+![matrices](https://helloacm.com/wp-content/uploads/2019/11/matrix1.png)
+
+Here we can realise that higher quality images, that contain a larger resolution, thereby more pixels, will take more calculations when we are dealing with this. The importance of how accurate these things will be will be case specific, for example I could imagine that healthcare could in some cases could maybe get better insight from analysing millions of pictures of human rashes, but this is pure speculation on my part.  
+
+**Now here's the kicker**, so a common 2d matrix is the same as a 2-dimensional array, where as a tensor is a multidimensional array. Ok what does that tell us and how is that different from a regular 2D-array? 
 
 ![tensor](https://cdn-images-1.medium.com/max/2000/1*_D5ZvufDS38WkhK9rK32hQ.jpeg)
 
-A tensor is the basic building block of modern machine learning. At its core, it's a data container. Mostly it contains numbers. Sometimes it even includes strings, but that is rare. ***So think of it as a bucket of numbers.***
+**In short**, tensors are the basic building block for certain machine learning and deep learning models. (Quick side-note: the popularity for tensors today, according to "David" on a stats forum; Tensor algorithms often lend themselves well to parallelism, which hardware (such as GPU accelerators) are increasingly getting better at). 
+
+At its core, these **tensors are data containers**. Mostly it contains numbers. Sometimes it even includes strings, but that is rare. ***So think of it as a bucket of numbers.***
 
 
 
