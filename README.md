@@ -56,13 +56,17 @@ At its core, these **tensors are data containers**. Mostly it contains numbers. 
 
 
 
-#### Now, next thing: *what are data structures?*
+### Now, next thing: *what are data structures?*
 
-Basically;
+* And why do we need to know about them in order to do Machine Learning / use PyTorch? 
+
+Basically there are four main types of datastructures;
 
 1. Linear: arrays, lists, 
 2. Tree: binary, heaps, space partitioning etc.
 3. Hash: distributed hash table, hash tree etc.
 4. Graphs: decision, directed, acyclic etc.
 
+Each and everyone of these 
 
+Why this is critical to know when using PyTorch is because 
