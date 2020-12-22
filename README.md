@@ -56,7 +56,9 @@ At its core, these **tensors are data containers**. Mostly it contains numbers. 
 
 
 
-* **but what are data structures?** Basically;
+#### Now, next thing: *what are data structures?*
+
+Basically;
 
 1. Linear: arrays, lists, 
 2. Tree: binary, heaps, space partitioning etc.
